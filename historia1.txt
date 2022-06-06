@@ -13,3 +13,5 @@ el comando git cherry-pick
 r con r cigarro, r con r barril
 
 rapido ruedan los carros 
+
+cargados de ruedas en el ferro carril 
