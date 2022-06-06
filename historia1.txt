@@ -6,3 +6,6 @@ vive en todo el mundo
 Master 1
 
 Mañana nos enfocaremos en su vidda laboral
+
+Creado por el capo di tutti JSTP para prbar 
+el comando git cherry-pick
