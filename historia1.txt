@@ -11,3 +11,5 @@ Creado por el capo di tutti JSTP para prbar
 el comando git cherry-pick
 
 r con r cigarro, r con r barril
+
+rapido ruedan los carros 
